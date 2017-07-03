@@ -36,7 +36,6 @@ import math
 import pickle
 from sklearn.svm import SVC
 from sklearn import neighbors 
-from sklearn import neighbors 
 from sklearn.externals import joblib
 
 def main(args):
