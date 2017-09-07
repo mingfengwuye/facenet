@@ -48,3 +48,6 @@ The accuracy on LFW for the model [20170512-110547](https://drive.google.com/fil
 
 # Camera example
 See the camera-example.py in src folder
+
+# KNN classifer
+See the classifier-knn.py in src folder
